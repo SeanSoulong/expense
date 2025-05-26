@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">expense</string>
+    <string name="expense_list">Expense List</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="home">Home</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="currency">Currency</string>
+    <string name="remark">Remark</string>
+    <string name="date">Date</string>
+    <string name="setting">Setting</string>
+    <string name="my_last_expense_was_0">My last expense was $0</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="amount_expense">Amount</string>
+    <string name="category_exspense">Category</string>
+    <string name="_expsen">Remark</string>
+    <string name="enter_remark">Enter Remark</string>
+    <string name="add_expense_btn">Add Expense</string>
+    <string name="usd">USD</string>
+    <string name="khr">KHR</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="login_here">Login Here</string>
+    <string name="welcome_msg">Welcome back you\'ve been missed</string>
+    <string name="forget_your_password">Forget your password?</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_an_account_so_you_can_explore_all_the_existing_jobs">Create an account so you can explore all the existing jobs</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="welcome_title">Simplify Your Daily Task</string>
+    <string name="welcome_content">Find and organise your to-dos and tasks to make your day more managable and stress-free</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="enter_category">Enter Category</string>
+    <string name="my_last_expense_was_168">My last expense was 168$</string>
+    <string name="_2025_03_18">2025-03-18</string>
+    <string name="food">Food</string>
+    <string name="lunch_at_restaurant">Lunch at restaurant</string>
+    <string name="_100">100</string>
+    <string name="enter_new_category">Enter New Category</string>
+    <string name="add_category">Add Category</string>
+    <string name="capture_receipt_image">Receipt image</string>
+    <string name="todo">TODO</string>
+    <string name="receipt">Receipt</string>
+    <string name="receipt_image">Receipt Image</string>
+    <string name="sign_up">Sign up</string>
+    <string name="remove_image">Remove Image</string>
+    <string name="budget_warning">Budget Warning!</string>
+    <string name="you_have_exceeded_your_budget">You have exceeded your budget!</string>
+    <string name="no_expenses_found">No expenses found!</string>
+    <string-array name="category_list">
+        <item>Food</item>
+        <item>Drink</item>
+        <item>Shopping</item>
+    </string-array>
+
+
+</resources>

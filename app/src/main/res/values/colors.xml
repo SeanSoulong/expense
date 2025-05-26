@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#1B1212</color>
+    <color name="text">#494949</color>
+    <color name="colorFocus">#CDDC39</color>
+    <color name="gray">#545454</color>
+    <color name="todoColor">#FFEB3B</color> <!-- Yellow for To-Do -->
+    <color name="completeColor">#4CAF50</color> <!-- Green for Completed -->
+    <color name="overdueColor">#F44336</color> <!-- Red for Overdue -->
+    <color name="pendingColor">#FFC107</color> <!-- Amber/Yellow for Pending -->
+
+    <color name="defaultColor">#9E9E9E</color> <!-- Grey for Default -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_size">30sp</dimen>
+    <dimen name="button_text_size">20sp</dimen>
+    <dimen name="placeholder_size">16sp</dimen>
+    <dimen name="default_text_size">14sp</dimen>
+</resources>

@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name" translatable="false">expense</string>
+    <string name="expense_list">បញ្ជីចំណាយ</string>
+    <string name="add_expense">បន្ថែមចំណាយ</string>
+    <string name="home">ទំព័រដើម</string>
+    <string name="hello_blank_fragment">សួស្តី Fragment ទទេ</string>
+    <string name="category">ប្រភេទ</string>
+    <string name="amount">ចំនួនទឹកប្រាក់</string>
+    <string name="currency">រូបិយប័ណ្ណ</string>
+    <string name="remark">កំណត់សម្គាល់</string>
+    <string name="date">ថ្ងៃខែ</string>
+    <string name="setting">ការកំណត់</string>
+    <string name="my_last_expense_was_0">ការចំណាយចុងក្រោយរបស់ខ្ញុំគឺ $0</string>
+    <string name="enter_amount">បញ្ចូលចំនួនទឹកប្រាក់</string>
+    <string name="amount_expense">ចំនួនចំណាយ</string>
+    <string name="category_exspense">ប្រភេទចំណាយ</string>
+    <string name="_expsen">កំណត់សម្គាល់</string>
+    <string name="enter_remark">បញ្ចូលកំណត់សម្គាល់</string>
+    <string name="add_expense_btn">បន្ថែមចំណាយ</string>
+    <string name="usd">ដុល្លារ</string>
+    <string name="khr">រៀល</string>
+    <string name="login">ចូលគណនី</string>
+    <string name="register">ចុះឈ្មោះ</string>
+    <string name="login_here">ចូលត្រង់នេះ</string>
+    <string name="welcome_msg">សូមស្វាគមន៍ត្រឡប់មកវិញ! យើងគិតអំពីអ្នក។</string>
+    <string name="forget_your_password">ភ្លេចលេខសម្ងាត់?</string>
+    <string name="create_new_account">បង្កើតគណនីថ្មី</string>
+    <string name="sign_in">ចូល</string>
+    <string name="create_account">បង្កើតគណនី</string>
+    <string name="create_an_account_so_you_can_explore_all_the_existing_jobs">បង្កើតគណនី ដើម្បីអាចស្វែងរកការងារ និងឱកាសដែលមាន</string>
+    <string name="password">ពាក្យសម្ងាត់</string>
+    <string name="already_have_an_account">មានគណនីរួចហើយ?</string>
+    <string name="confirm_password">បញ្ជាក់ពាក្យសម្ងាត់</string>
+    <string name="email">អ៊ីមែល</string>
+    <string name="welcome_title">សម្រួលភារកិច្ចប្រចាំថ្ងៃរបស់អ្នក</string>
+    <string name="welcome_content">ស្វែងរកនិងរៀបចំភារកិច្ចរបស់អ្នក ដើម្បីធ្វើឲ្យថ្ងៃរបស់អ្នកកាន់តែងាយស្រួល និងគ្មានការរអាក់រអួល</string>
+    <string name="sign_out">ចេញពីប្រព័ន្ធ</string>
+    <string name="enter_category">បញ្ចូលប្រភេទ</string>
+    <string name="my_last_expense_was_168">ការចំណាយចុងក្រោយរបស់ខ្ញុំគឺ ១៦៨ ដុល្លារ</string>
+    <string name="_2025_03_18">២០២៥-០៣-១៨</string>
+    <string name="food">អាហារ</string>
+    <string name="lunch_at_restaurant">អាហារថ្ងៃត្រង់នៅភោជនីយដ្ឋាន</string>
+    <string name="_100">១០០</string>
+    <string name="enter_new_category">បញ្ចូលប្រភេទថ្មី</string>
+    <string name="add_category">បន្ថែមប្រភេទ</string>
+    <string name="capture_receipt_image">រូបភាពវិក័យប័ត្រ</string>
+    <string name="todo">ត្រូវធ្វើ</string>
+    <string name="receipt">វិក័យប័ត្រ</string>
+    <string name="receipt_image">រូបវិក័យប័ត្រ</string>
+    <string name="sign_up">ចុះឈ្មោះ</string>
+    <string name="remove_image">លុបរូបភាព</string>
+    <string name="budget_warning">ការព្រមានថវិកា!</string>
+    <string name="you_have_exceeded_your_budget">អ្នកបានលើសថវិការបស់អ្នក!</string>
+    <string name="no_expenses_found">រកមិនឃើញចំណាយទេ!</string>
+
+    <string-array name="category_list">
+        <item>អាហារ</item>
+        <item>ភេសជ្ជៈ</item>
+        <item>ការទិញទំនិញ</item>
+    </string-array>
+</resources>

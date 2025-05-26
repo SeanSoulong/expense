@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/nav_addexpense"
+        android:enabled="true"
+        android:icon="@drawable/expenses"
+        android:title="@string/add_expense"/>
+    <item
+        android:id="@+id/nav_expense_list"
+        android:enabled="true"
+        android:icon="@drawable/expense_list"
+        android:title="@string/expense_list"/>
+    <item
+        android:id="@+id/nav_setting"
+        android:enabled="true"
+        android:icon="@drawable/setting"
+        android:title="@string/setting"/>
+
+</menu>
